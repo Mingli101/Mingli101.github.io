@@ -1,0 +1,45 @@
+my_site_css
+
+h1 {font-color: white;
+padding-bottom:40px;
+border-spacing:100px;}
+
+.menu {
+	font-size:30px;
+padding-bottom:10px;}
+
+button {color:white}
+.btn {
+color:white;
+background-color: red;
+border-color: red;}
+
+.jumbotron{
+	color: white;
+	min-height:600px;
+	background-image:url('images/background.jpg');
+	background-size:cover;
+	background-attachment:fixed;
+}
+ul#links li {
+	font-size:25px;
+	padding:10px;
+
+}
+
+#social-buttons button {color:white;
+white-space: 20px}
+ 
+.btn-twitter{
+	background-color:#00acee;
+	border-color:#009ad5;
+
+}
+.btn-facebook {
+	background-color:#4868ac;
+	border-color:#314776;
+}
+.btn-pinterest{
+	background-color:#b62f26;
+	border-color:#b62f26;
+}
